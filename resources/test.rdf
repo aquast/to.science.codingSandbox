@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b0">
+	<rdf:first rdf:resource="https://orcid.org/0000-0002-7662-8211"/>
+	<rdf:rest rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b1"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b1">
+	<rdf:first rdf:resource="https://orcid.org/0000-0002-3187-2536"/>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b2">
+	<rdf:first>https://orcid.org/0000-0002-7662-8211|https://orcid.org/0000-0002-3187-2536</rdf:first>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b3">
+	<rdf:first>https://ror.org/03dv91853</rdf:first>
+	<rdf:rest rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b4"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b4">
+	<rdf:first>https://ror.org/00n3mcd10</rdf:first>
+	<rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://hbz-nrw.de/regal#ResearchData">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Bidlungsmaterialien</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.loc.gov/vocabulary/iso639-2/fra">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Französisch</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://id.loc.gov/vocabulary/iso639-2/ger">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Deutsch</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://creativecommons.org/licenses/by-nc/4.0/">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">CC BY-NC 4.0</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://hoerkaen.hbz-nrw.de/resource/orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88/edit">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">https://hoerkaen.hbz-nrw.de/resource/orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88/edit</prefLabel>
+	<primaryTopic xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://orcid.org/0000-0002-3187-2536">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Peter Reimer</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://orcid.org/0000-0002-7662-8211">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Andres Quast</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/kim/hcrt/application">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Softwareanwendung</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://w3id.org/kim/hcrt/assessment">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">Lernkontrolle</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="oai:api.hoerkaen.hbz-nrw.de:orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">oai:api.hoerkaen.hbz-nrw.de:orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="orca:506a73ec-f4d4-4453-9f06-d3c28df574b5">
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">No title</prefLabel>
+</rdf:Description>
+
+<rdf:Description rdf:about="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88">
+	<accessScheme xmlns="http://hbz-nrw.de/regal#">public</accessScheme>
+	<contentType xmlns="http://hbz-nrw.de/regal#">researchData</contentType>
+	<license xmlns="http://hbz-nrw.de/regal#" rdf:resource="https://creativecommons.org/licenses/by-nc/4.0/"/>
+	<publishScheme xmlns="http://hbz-nrw.de/regal#">public</publishScheme>
+	<yearOfCopyright xmlns="http://hbz-nrw.de/regal#">2022</yearOfCopyright>
+	<creator xmlns="http://purl.org/dc/terms/" rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b0"/>
+	<description xmlns="http://purl.org/dc/terms/">Dieser Upload dient der Prüfung des lrmi-Mappings zu metadata2. Er ist nur ein Upload zu Zwecken der Softwareentwicklung</description>
+	<hasPart xmlns="http://purl.org/dc/terms/" rdf:resource="orca:506a73ec-f4d4-4453-9f06-d3c28df574b5"/>
+	<language xmlns="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/iso639-2/fra"/>
+	<language xmlns="http://purl.org/dc/terms/" rdf:resource="http://id.loc.gov/vocabulary/iso639-2/ger"/>
+	<medium xmlns="http://purl.org/dc/terms/" rdf:resource="https://w3id.org/kim/hcrt/application"/>
+	<medium xmlns="http://purl.org/dc/terms/" rdf:resource="https://w3id.org/kim/hcrt/assessment"/>
+	<title xmlns="http://purl.org/dc/terms/">Ein Testupload vom 18.05.2022</title>
+	<contributorOrder xmlns="http://purl.org/lobid/lv#" rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b2"/>
+	<itemID xmlns="http://www.openarchives.org/OAI/2.0/" rdf:resource="oai:api.hoerkaen.hbz-nrw.de:orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88"/>
+	<isDescribedBy xmlns="http://www.openarchives.org/ore/terms/" rdf:resource="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88.rdf"/>
+	<rdf:type rdf:resource="http://hbz-nrw.de/regal#ResearchData"/>
+	<prefLabel xmlns="http://www.w3.org/2004/02/skos/core#">orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88</prefLabel>
+	<adr xmlns="http://www.w3.org/2006/vcard/ns#" rdf:nodeID="genid-d251f63423304111a7387f8e33308819-b3"/>
+	<isPrimaryTopicOf xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="https://hoerkaen.hbz-nrw.de/resource/orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88/edit"/>
+	<primaryTopic xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88.rdf">
+	<createdBy xmlns="http://hbz-nrw.de/regal#">2</createdBy>
+	<lastModifiedBy xmlns="http://hbz-nrw.de/regal#">10</lastModifiedBy>
+	<objectTimestamp xmlns="http://hbz-nrw.de/regal#">2022-05-18T16:49:59.000+0000</objectTimestamp>
+	<created xmlns="http://purl.org/dc/terms/">2022-05-18T18:15:41.469+0200</created>
+	<modified xmlns="http://purl.org/dc/terms/">2022-05-18T16:49:59.587+0000</modified>
+	<describes xmlns="http://www.openarchives.org/ore/terms/" rdf:resource="orca:e6452d8f-8c7b-4eb2-837c-9412dbb56a88"/>
+</rdf:Description>
+
+</rdf:RDF>
