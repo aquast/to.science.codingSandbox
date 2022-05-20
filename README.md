@@ -8,6 +8,6 @@ This Repository is for investigating parts of the to.science code outside the ra
 2. import as Maven-Project into eclipse
 3. run CheckResolvers.java or ProbeRDFUtils as Java-Application 
 
-## Feel free to enhance the Sandbox with our investigations ;-)  
+## Feel free to enhance the Sandbox with your investigations ;-)  
 
  
